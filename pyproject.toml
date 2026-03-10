@@ -13,6 +13,7 @@ packages = [
 
 [tool.poetry.dependencies]
 python = "^3.10"
+fastapi = "^0.111.0"
 transformers = ">=4.56.1"
 torch = "^2.7.0"
 pydantic = "^2.5.3"
